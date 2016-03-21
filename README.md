@@ -1,5 +1,7 @@
 # Tealium Integration for PHP
 
+[![Build Status](https://travis-ci.org/TimeIncOSS/tealium-php.svg?branch=master)](https://travis-ci.org/TimeIncOSS/tealium-php)
+
 This package provides Tealium integration for PHP, handling script
 generation and Universal Data Object (UDO) control.
 
