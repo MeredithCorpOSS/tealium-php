@@ -1,7 +1,7 @@
 {
     "name": "timeinc/tealium",
     "description": "Tealium Implementation for PHP",
-    "type": "tealium",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
